@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
 
                     // ✅ APP NAVIGATION
                     AppNavigation()
-                }
+                }// test commit
             }
         }
     }
