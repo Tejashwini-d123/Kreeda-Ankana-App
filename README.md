@@ -82,44 +82,39 @@ Built using Jetpack Compose.
 
 # 📸 Application Screenshots
 
-## Login Successful
-![Login](login.jpeg)
+<p align="center">
+  <img src="login.jpeg" width="250"/>
+  <img src="dashboard.jpeg" width="250"/>
+</p>
 
-## Dashboard Screen
-![Dashboard](dashboard.jpeg)
+<p align="center">
+  <img src="calendar.jpeg" width="250"/>
+  <img src="booking1.jpeg" width="250"/>
+</p>
 
-## Ground Calendar
-![Calendar](calendar.jpeg)
+<p align="center">
+  <img src="booking2.jpeg" width="250"/>
+  <img src="booking3.jpeg" width="250"/>
+</p>
 
-## Slot Booking Details
-![Booking Details](booking1.jpeg)
+<p align="center">
+  <img src="challenge1.jpeg" width="250"/>
+  <img src="challenge2.jpeg" width="250"/>
+</p>
 
-## Slot Booking Successful
-![Booking Success](booking2.jpeg)
+<p align="center">
+  <img src="scorewall.jpeg" width="250"/>
+  <img src="firebaseapp.jpeg" width="250"/>
+</p>
 
-## Slot Already Booked
-![Slot Already Booked](booking3.jpeg)
+<p align="center">
+  <img src="firebaseauth.jpeg" width="250"/>
+  <img src="firebasedatabase.jpeg" width="250"/>
+</p>
 
-## Challenge Posted Successfully
-![Challenge Posted](challenge1.jpeg)
-
-## Challenge Reply Sent
-![Challenge Reply](challenge2.jpeg)
-
-## Match Result Posted in Score Wall
-![Score Wall](scorewall.jpeg)
-
-## Android App Connected with Firebase
-![Firebase App Connection](firebaseapp.jpeg)
-
-## Firebase Authentication
-![Firebase Authentication](firebaseauth.jpeg)
-
-## Firebase Database
-![Firebase Database](firebasedatabase.jpeg)
-
-## Project Structure in Android Studio
-![Project Structure](project.jpeg)
+<p align="center">
+  <img src="project.jpeg" width="250"/>
+</p>
 
 ---
 
