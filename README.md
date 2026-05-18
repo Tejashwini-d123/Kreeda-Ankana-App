@@ -98,8 +98,8 @@ Built using Jetpack Compose.
 </p>
 
 <p align="center">
-  <img src="challenge1.jpeg" width="250"/>
-  <img src="challenge2.jpeg" width="250"/>
+  <img src="challeng1.jpeg" width="250"/>
+  <img src="challeng2.jpeg" width="250"/>
 </p>
 
 <p align="center">
