@@ -2,9 +2,7 @@
 
 > Android App Development using GenAI – MindMatrix VTU Internship Program
 
----
-
-A smart Android application to digitally organize village sports activities with booking, scheduling, and match coordination features.
+A smart Android application to manage sports ground booking, match scheduling, and team coordination for village communities.
 
 ---
 
@@ -85,43 +83,43 @@ Built using Jetpack Compose.
 # 📸 Application Screenshots
 
 ## Login Successful
-![Login](login.jpg)
+![Login](login.jpeg)
 
 ## Dashboard Screen
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpeg)
 
 ## Ground Calendar
-![Calendar](calendar.jpg)
+![Calendar](calendar.jpeg)
 
 ## Slot Booking Details
-![Booking Details](booking1.jpg)
+![Booking Details](booking1.jpeg)
 
 ## Slot Booking Successful
-![Booking Success](booking2.jpg)
+![Booking Success](booking2.jpeg)
 
 ## Slot Already Booked
-![Slot Already Booked](booking3.jpg)
+![Slot Already Booked](booking3.jpeg)
 
 ## Challenge Posted Successfully
-![Challenge Posted](challenge1.jpg)
+![Challenge Posted](challenge1.jpeg)
 
 ## Challenge Reply Sent
-![Challenge Reply](challenge2.jpg)
+![Challenge Reply](challenge2.jpeg)
 
 ## Match Result Posted in Score Wall
-![Score Wall](scorewall.jpg)
+![Score Wall](scorewall.jpeg)
 
 ## Android App Connected with Firebase
-![Firebase App Connection](firebaseapp.jpg)
+![Firebase App Connection](firebaseapp.jpeg)
 
 ## Firebase Authentication
-![Firebase Authentication](firebaseauth.jpg)
+![Firebase Authentication](firebaseauth.jpeg)
 
 ## Firebase Database
-![Firebase Database](firebasedatabase.jpg)
+![Firebase Database](firebasedatabase.jpeg)
 
 ## Project Structure in Android Studio
-![Project Structure](project.jpg)
+![Project Structure](project.jpeg)
 
 ---
 
